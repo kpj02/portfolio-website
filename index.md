@@ -8,4 +8,4 @@ Collaborative software engineer
 
 ## My skills
 * Git and GitHub
-* Functional analysis
+* Functional analysis (FUNKY)
